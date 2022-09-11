@@ -32,4 +32,4 @@ The recent work [2] on *supervised dictionary learning* provides a novel statist
  [3] Joowon Lee, Seungyeoun Lee, Jin-Young Jang, and Taesung Park, \
 *"Exact association test for small size sequencing data*"([Journal](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0344-z) 2018, 12 pp)
 
-In this work [3], we propose a new exact association test for sequencing data that does not require a large sample approximation based on the Generalized Cochran-Mantel-Haenszel (GCMH) statistic. It is applicable to most sequencing data which is generally restricted to small sample size due to its-still high cost.
+In [3], we propose a new exact association test for sequencing data that does not require a large sample approximation based on the Generalized Cochran-Mantel-Haenszel (GCMH) statistic. It is applicable to most sequencing data which is generally restricted to small sample size due to its-still high cost.
