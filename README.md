@@ -32,4 +32,4 @@ Here are some of my current and previous projects:
 3. Joowon Lee, Seungyeoun Lee, Jin-Young Jang, and Taesung Park, \
 *"Exact association test for small size sequencing data*"([Journal](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0344-z) 2018, 12 pp)
 
-- In 3, we propose a new exact association test for sequencing data that does not require a large sample approximation based on the Generalized Cochran-Mantel-Haenszel (GCMH) statistic. It is applicable to most sequencing data which is generally restricted to a small sample size due to its-still high cost.
+ - In 3, we propose a new exact association test for sequencing data that does not require a large sample approximation based on the Generalized Cochran-Mantel-Haenszel (GCMH) statistic. It is applicable to most sequencing data which is generally restricted to a small sample size due to its-still high cost.
