@@ -26,7 +26,9 @@ My current ongoing work with Prof. Chen is on developing three-way balancing met
 
 The recent work [2] on *supervised dictionary learning* provides a novel statistical method for finding class-discriminative dictionaries to perform supervised learning in the framework of dictionary learning. 
 
-![](Figures/SDL_xray_small.png| width=100)
+![](Figures/SDL_xray_small.png)
+
+<img src="Figures/SDL_xray_small.png" width="100" height="100">
 &nbsp;
 
  [3] Joowon Lee, Seungyeoun Lee, Jin-Young Jang, and Taesung Park, \
