@@ -21,6 +21,7 @@ Here are some of my current and previous projects:
  
    - My current ongoing work with Prof. Chen is on developing three-way balancing methods to decide the optimal multi-stage treatments (e.g., COVID-19 vaccine) for each individual given the initial baseline covariate. 
    
+&nbsp;
 
 2. Joowon Lee, Hanbaek Lyu, and Weixin Yao,\
 *"Supervised Dictionary Learning with Auxiliary Covariates*" ([arXiv](https://arxiv.org/abs/2206.06774) 2022, 61 pp, [GitHub](https://github.com/ljw9510/SDL))
