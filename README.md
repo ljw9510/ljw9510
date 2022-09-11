@@ -28,7 +28,7 @@ The recent work [2] on *supervised dictionary learning* provides a novel statist
 
 ![](Figures/SDL_xray_small.png)
 
-<img src="Figures/SDL_xray_small.png" width="500" height="200">
+<img src="Figures/SDL_xray_small.png" width="600" height="450">
 &nbsp;
 
  [3] Joowon Lee, Seungyeoun Lee, Jin-Young Jang, and Taesung Park, \
