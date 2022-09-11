@@ -12,6 +12,7 @@ As a former nurse, I love to help individual patients to improve their health co
 
 I earned my B.S. in Statistics and Nursing, and M.S. in Statistics at Seoul National Unversity in South Korea. Before joining UW-Madison, I worked as an emergency room nurse at Hyundai Asan medical center in South Korea and participated in various projects such as finding susceptible genes related to pancreatic cancer by dealing with clinical data, microarray, and sequencing data.
 
+&nbsp;
 
 ## Research 
 
