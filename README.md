@@ -2,9 +2,9 @@ Hi!
 
 I am **Joowon Lee**, a Ph.D. student in the Department of Statistics at University of Wisconsin-Madison.
 
-I am interested in the fields of causal inference and machine learning. My general research interest is in learning important latent features from a large dataset that for classficiation or prediction tasks. I seek for methods that can give interpretible results so that it can be used and communicated with broad range of people. 
+I am interested in the fields of causal inference and machine learning. My general research interest is to learn important latent features on large datasets for classification or prediction tasks. I seek methods that can give interpretable results so that it can be widely used and communicated. 
 
-I love helping individual patients to improve their health condition, however, my ultimate goal is to develop novel statistical methods for medical and public health studies, aiming for the overall improvement of public health status. As long as I can pursue these goals, I am not yet confined to any particular kind of jobs (academia or industry). 
+While I love to help individual patients to improve their health conditions, my ultimate goal is to develop novel statistical methods for medical and public health studies, aiming for the overall improvement of public health status. As long as I can pursue these goals, I am not yet confined to any particular type of job (e.g. academia or industry). 
 
 
 ## Education 
