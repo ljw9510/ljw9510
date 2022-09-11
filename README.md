@@ -19,12 +19,12 @@ Here are some of my current and previous projects:
 1. Joowon Lee and Guanhua Chen, \
  *"Robust weighting to facilitate individualized multi-stage treatment rule learning"* (In preparation)
  
- - My current ongoing work with Prof. Chen is on developing three-way balancing methods to decide the optimal multi-stage treatments (e.g., COVID-19 vaccine) for each individual given the initial baseline covariate. 
+  - My current ongoing work with Prof. Chen is on developing three-way balancing methods to decide the optimal multi-stage treatments (e.g., COVID-19 vaccine) for each individual given the initial baseline covariate. 
 
 2. Joowon Lee, Hanbaek Lyu, and Weixin Yao,\
 *"Supervised Dictionary Learning with Auxiliary Covariates*" ([arXiv](https://arxiv.org/abs/2206.06774) 2022, 61 pp, [GitHub](https://github.com/ljw9510/SDL))
 
- - The recent work 2 on *supervised dictionary learning* provides a novel statistical method for finding class-discriminative dictionaries to perform supervised learning in the framework of dictionary learning. 
+  - The recent work 2 on *supervised dictionary learning* provides a novel statistical method for finding class-discriminative dictionaries to perform supervised learning in the framework of dictionary learning. 
 
 <img src="Figures/SDL_xray_small.png" width="700" height="450">
 &nbsp;
@@ -32,4 +32,4 @@ Here are some of my current and previous projects:
 3. Joowon Lee, Seungyeoun Lee, Jin-Young Jang, and Taesung Park, \
 *"Exact association test for small size sequencing data*"([Journal](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0344-z) 2018, 12 pp)
 
- - In 3, we propose a new exact association test for sequencing data that does not require a large sample approximation based on the Generalized Cochran-Mantel-Haenszel (GCMH) statistic. It is applicable to most sequencing data which is generally restricted to a small sample size due to its-still high cost.
+  - In 3, we propose a new exact association test for sequencing data that does not require a large sample approximation based on the Generalized Cochran-Mantel-Haenszel (GCMH) statistic. It is applicable to most sequencing data which is generally restricted to a small sample size due to its-still high cost.
