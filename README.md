@@ -19,7 +19,7 @@ I earned my B.S. in Statistics and Nursing, and M.S. in Statistics at Seoul Nati
 Here are some of my current and previous projects: 
 
 1. Joowon Lee and Guanhua Chen, \
- *"Robust weighting to facilitate individualized multi-stage treatment rule learning"* (In preparation)
+*"Robust Weighting for Dynamic Treatment Regime"* (In preparation)
  
    - My current ongoing work with Prof. Chen is on developing three-way balancing methods to decide the optimal multi-stage treatments (e.g., COVID-19 vaccine) for each individual given the initial baseline covariate. 
    
