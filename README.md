@@ -4,7 +4,7 @@ I am **Joowon Lee**, a Ph.D. student in the Department of Statistics at the Univ
 
 I am interested in the fields of causal inference and machine learning. More specifically, my research interest is in developing individual treatment rules which recommend proper treatment according to individual characteristics based on causal effects. I seek methods that can give *interpretable* results so that they can be widely used and communicated with professionals in broad areas.
 
-As a former nurse, I love to help individual patients to improve their health conditions. However, my ultimate goal is to develop novel statistical methods for medical and public health studies, aiming for the overall improvement of public health status. As long as I can pursue these goals, I am not yet confined to any particular type of job (e.g. academia or industry).
+As a former nurse, I love to help individual patients to improve their health conditions. However, my ultimate goal is to develop novel statistical methods for medical and public health studies, aiming for the overall improvement of public health status.
 
 &nbsp;
 
